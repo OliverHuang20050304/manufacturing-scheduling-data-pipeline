@@ -1,0 +1,7 @@
+machine_id,product_id,process,compatible,machine_rate_units_per_minute,C_P_minutes_per_unit,weighted_C_S_minutes,rate_as_of_date,rate_version,data_quality_status
+MX-101,PRD-A,heading,1,2.6000,0.3846,35.1923,2026-03-15,v2,ok
+MX-101,PRD-B,heading,1,2.6000,0.3846,54.8077,2026-03-15,v2,ok
+MX-101,PRD-F,heading,1,2.6000,0.3846,45.5769,2026-03-15,v2,ok
+MX-102,PRD-C,heading,1,1.8000,0.5556,63.4615,2026-03-15,v2,ok
+MX-201,PRD-D,threading,1,3.1000,0.3226,25.0000,2026-03-15,v2,ok
+MX-202,PRD-E,threading,1,,,50.0000,2026-03-15,v2,missing_machine_rate

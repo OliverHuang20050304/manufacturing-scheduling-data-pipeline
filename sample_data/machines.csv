@@ -1,0 +1,6 @@
+machine_id,process,diameter_min_mm,diameter_max_mm,length_min_mm,length_max_mm,supported_head_types,active
+ MX-101 ,Heading,2.5,5.0,10,50,HEX|pan,yes
+MX-102,heading,4.0,8.0,20,100,hex|socket,TRUE
+MX-201,THREADING,2.5,6.0,10,60,,1
+MX-202,threading,5.0,8.0,40,100,,yes
+MX-999,heading,2.0,9.0,5,120,hex|pan|socket,no

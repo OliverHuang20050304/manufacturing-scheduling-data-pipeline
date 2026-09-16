@@ -1,0 +1,7 @@
+product_id,process,head_type,diameter_mm,length_mm,batch_weight
+prd-a,Heading,HEX,3.2,25,12
+PRD-B,heading,pan,4.5,35,7
+PRD-C,heading,Socket,6.0,70,4
+PRD-F,heading,hex,3.2,35,3
+PRD-D,threading,,3.2,25,10
+PRD-E,THREADING,,7.0,90,5
